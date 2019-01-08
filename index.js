@@ -13,3 +13,7 @@ function weFocus() {
 function startBlur() {
   alert("You are leaving the field\nBluerred!")
 }
+
+function mouseOverFunct() {
+  alert("My mouse is over this element.")
+}
