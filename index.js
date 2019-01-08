@@ -5,3 +5,7 @@ function Hello() {
 function myButton() {
   alert("The button works! Thanks.")
 }
+
+function weFocus() {
+  alert("We are focused!")
+}
