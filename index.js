@@ -9,3 +9,7 @@ function myButton() {
 function weFocus() {
   alert("We are focused!")
 }
+
+function startBlur() {
+  alert("You are leaving the field\nBluerred!")
+}
