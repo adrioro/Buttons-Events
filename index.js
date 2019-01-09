@@ -25,3 +25,7 @@ function mouseOutFunct() {
 function mouseDownFunct() {
   alert("The alert works when we are clicking down.")
 }
+
+function mouseMoveFunct() {
+  alert("Accion is activated by the movement inside this element.")
+}
