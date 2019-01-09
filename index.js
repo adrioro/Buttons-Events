@@ -33,3 +33,11 @@ function mouseMoveFunct() {
 function whenPressed() {
   alert("You pressed a key.")
 }
+
+function KeyDownFunct() {
+  alert("You pressed a key, and accion is performed before you release the key.")
+}
+
+function KeyUpFunct() {
+  alert("Function is performed when you relase the key.")
+}
