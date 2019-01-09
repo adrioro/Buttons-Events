@@ -17,3 +17,7 @@ function startBlur() {
 function mouseOverFunct() {
   alert("My mouse is over this element.")
 }
+
+function mouseOutFunct() {
+  alert("My mouse is moved out the element.")
+}
