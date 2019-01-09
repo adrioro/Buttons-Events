@@ -21,3 +21,7 @@ function mouseOverFunct() {
 function mouseOutFunct() {
   alert("My mouse is moved out the element.")
 }
+
+function mouseDownFunct() {
+  alert("The alert works when we are clicking down.")
+}
