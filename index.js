@@ -29,3 +29,7 @@ function mouseDownFunct() {
 function mouseMoveFunct() {
   alert("Accion is activated by the movement inside this element.")
 }
+
+function whenPressed() {
+  alert("You pressed a key.")
+}
